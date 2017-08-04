@@ -1,6 +1,6 @@
 # Bitbucket Pipelines PHP 7.1 image
 
-## Based on [Official PHP image](https://hub.docker.com/_/php/)
+## Based on [Official PHP image](https://hub.docker.com/_/php/) and work done by [Eduardo Bizarro](https://github.com/edbizarro/)
 
 ### Packages installed
 
